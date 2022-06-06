@@ -2,7 +2,10 @@
   
 
 I am working as a front end developer since 2021 and I am trying my best to learn the concepts of front end development. I am currently learning **ReactJS**.  I hope to work as a freelance web developer in the future. You can check my projects  in my GitHub repositories'.  
-  
+
+### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,sass,tailwind,ts,vim,vscode)](https://skillicons.dev)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Sadiq1029&&style=flat-square)  
   
