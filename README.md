@@ -21,5 +21,4 @@ I am working as a front end developer since 2021 and I am trying my best to lear
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  
